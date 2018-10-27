@@ -15,3 +15,5 @@ console.log(rest);
 
 const[a1] = rest;
 console.log(a1);
+
+
